@@ -1,0 +1,35 @@
+{
+  "title": "Python from Zero — A Complete Beginner's Guide",
+  "description": "A beginner-friendly Python guide for people coming from non-CS backgrounds — physics graduates, HSC students, and curious learners. Covers computer science basics through advanced Python and AI.",
+  "author": "Open Python Guide",
+  "language": "en",
+  "gitbook": ">=3.2.3",
+  "plugins": [
+    "hints",
+    "prism",
+    "collapsible-chapters",
+    "search-pro",
+    "back-to-top-button",
+    "code-tabs",
+    "alerts"
+  ],
+  "pluginsConfig": {
+    "prism": {
+      "css": [
+        "prismjs/themes/prism-tomorrow.css"
+      ]
+    },
+    "hints": {
+      "info": "💡",
+      "tip": "✅",
+      "danger": "⚠️",
+      "success": "🎉"
+    }
+  },
+  "styles": {
+    "website": "styles/custom.css"
+  },
+  "variables": {
+    "python_version": "3.12"
+  }
+}
