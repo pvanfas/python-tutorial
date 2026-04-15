@@ -1,6 +1,6 @@
 # 🐍 Python from Zero — A Complete Beginner's Guide
 
-> **For physics graduates, HSC students, and curious minds stepping into programming for the first time.**
+> **For students, and curious minds stepping into programming for the first time.**
 
 ---
 
